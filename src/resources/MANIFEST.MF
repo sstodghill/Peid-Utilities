@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.5
+Created-By: 1.5.0_03-b07 (Sun Microsystems Inc.)
+
+Name: org/cablelabs/safi/tools/Peid
+Specification-Title: "Advanced Advertising CIP"
+Specification-Version: "1.0"
+Specification-Vendor: "Cable Television Labratories Inc."
+Package-Title: "org.cablelabs.safi.tools"
+Package-Version: "build1"
+Package-Vendor: "Cable Television Labratories Inc."
+
