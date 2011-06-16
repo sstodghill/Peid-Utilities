@@ -296,7 +296,7 @@ public class Peid
             + " where output-format is one of C (canonical), B (base-64, 24\r\n"
             + " characters), or U (base64 unpadded, 22 characters)\r\n"
             + "and input is a single or comma-delimited (no space) list of\r\n"
-            + " a 24 byte base64 PEID, a 22 byte\r\n"
+            + " a 24 byte base64 PEID, a 22 byte base64 unpadded PEID\r\n"
             + " a base64Unpadded formated PEID or a 36 byte canonical PEID"; 
         //Check args
         if (args.length != 2)
