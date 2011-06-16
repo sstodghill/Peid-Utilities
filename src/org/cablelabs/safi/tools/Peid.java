@@ -38,7 +38,6 @@ import org.w3c.tools.codec.Base64FormatException;
  * consisting of 32 hex digits with dashes at specific places per RFC 4122), 3) the normal 24 byte 
  * Base64 version, and 4) Cablelabs(R) SaFI PEID form - 22 characters of Base64 form per RFC 3548
  * with padding suppressed. 
- * <p> Revision 1 - dvb - May 19, 09 Allow input to be comma-delimited string
  */
 public class Peid
 {
