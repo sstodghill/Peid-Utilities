@@ -237,6 +237,7 @@
 
     <!-- Compile Java classes as necessary -->
     <mkdir    dir="${build.home}"/>
+    <mkdir dir="${build.classes}"/>
     <javac target="1.6"
            source="1.6"
 	   srcdir="${src.home}"
